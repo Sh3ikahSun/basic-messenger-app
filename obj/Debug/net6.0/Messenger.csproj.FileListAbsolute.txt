@@ -1,0 +1,17 @@
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\Messenger.csproj.AssemblyReference.cache
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\Messenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\Messenger.AssemblyInfoInputs.cache
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\Messenger.AssemblyInfo.cs
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\Messenger.csproj.CoreCompileInputs.cache
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\bin\Debug\net6.0\Messenger.exe
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\bin\Debug\net6.0\Messenger.deps.json
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\bin\Debug\net6.0\Messenger.runtimeconfig.json
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\bin\Debug\net6.0\Messenger.dll
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\bin\Debug\net6.0\Messenger.pdb
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\Messenger.dll
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\refint\Messenger.dll
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\Messenger.pdb
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\Messenger.genruntimeconfig.cache
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\ref\Messenger.dll
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\summe\VSCodeProjects\CSCI251\Project3\obj\Debug\net6.0\Messenger.csproj.CopyComplete
